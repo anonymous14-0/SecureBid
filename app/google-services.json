@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "156856536905",
+    "project_id": "bid-fc57c",
+    "storage_bucket": "bid-fc57c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156856536905:android:85c7b0316a40de504dd498",
+        "android_client_info": {
+          "package_name": "com.jemi.securebid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhh8FXYUz5zzw-hl9cxQFlGcBrpOVypZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
